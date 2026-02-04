@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Reactの基本",
+    "excerpt": "ReactではUIをコンポーネント単位で構築します。再利用可能で状態管理が可能です。",
+    "content": "`### コンポーネントとは？\n\nReactではUIを**コンポーネント**単位で構築します。\n\n- 再利用可能\n- 状態管理が可能\n\n```tsx\nconst Hello = () => <h1>Hello React!</h1>;\n``",
+    "year": "2025",
+    "date": "2025-03-15"
+  },
+  {
+    "id": 2,
+    "title": "TypeScript入門",
+    "excerpt": "TypeScriptはJavaScriptに型を加えた言語です。型安全な開発が可能になります。",
+    "content": "### 型の基本\n\nTypeScriptはJavaScriptに型を加えた言語です。\n\n```ts\nlet message: string = \"こんにちは\";\n```",
+    "year": "2026",
+    "date": "2026-01-10"
+  }
+]
